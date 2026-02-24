@@ -1,14 +1,14 @@
-## Hi 👋
+# Luis Arroyo
 
-# Bienvenido a mi perfil de GitHub
+## Bienvenido a mi perfil de GitHub
 
-¡Hola! Soy Luis Arroyo, un estudiante de Ingeniería de Sistemas apasionado por la tecnología y el desarrollo de software. Este es mi espacio en GitHub, donde comparto algunos de mis proyectos y exploraciones en el mundo de la informática.
+¡Hola! Soy Luis Arroyo, Ingeniero de Sistemas apasionado por la tecnología y el desarrollo de software. Este es mi espacio en GitHub, donde comparto algunos de mis proyectos y exploraciones en el mundo de la informática.
 
 ## Sobre mí
 - 💻 Apasionado por la programación y el desarrollo de software.
-- 🎓 Estudiante de Ingeniería de Sistemas
 - 🌱 Siempre motivado a aprender y explorar nuevas tecnologías y herramientas.
-- 📫 Puedes contactarme a través de [correo electronico](mailto:larroyobjol@gmail.com) 
+- 📫 Puedes contactarme a través de [correo electronico](mailto:larroyob.dev@gmail.com) 
+- 🎓 Estudiante de Ingeniería de Sistemas
 
 ## Habilidades y Tecnologías
 
