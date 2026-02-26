@@ -8,7 +8,7 @@
 - 💻 Apasionado por la programación y el desarrollo de software.
 - 🌱 Siempre motivado a aprender y explorar nuevas tecnologías y herramientas.
 - 📫 Puedes contactarme a través de [correo electronico](mailto:larroyob.dev@gmail.com) 
-- 🎓 Estudiante de Ingeniería de Sistemas
+- 🎓 Ingeniero de Sistemas
 
 ## Habilidades y Tecnologías
 
